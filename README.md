@@ -13,8 +13,8 @@ Nessa aplicação a pessoa usuária poderá:
   - Visualizar a página de ranking, se quiser, ao final de cada jogo.
   - Configurar algumas opções para o jogo em uma tela de configuração acessível a partir do cabeçalho do app.
 
-## Deploy da aplicação no Heroku :rocket:
-  * https://trivia-react-redux.herokuapp.com/
+## Deploy da aplicação na Vercel :rocket:
+  * [https://trivia-react-redux.herokuapp.com/](https://trivia-react-redux-eight.vercel.app/)
 
 ## Gif da aplicação :movie_camera:
 ![Projeto](/src/assets/img/ProjetoTrivia.gif)
